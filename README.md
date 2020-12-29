@@ -1,3 +1,3 @@
-# student_marks_prediction
+# ML-projects
 
-Using hours of study by student predicting the percentage of a student
+
