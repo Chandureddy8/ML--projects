@@ -1,5 +1,6 @@
 # ML-projects
 
+**Data for covid-detection,flight delay,fraud-detection are in above folders
 
 **Titanic Data : https://www.kaggle.com/c/titanic**
 
